@@ -4,7 +4,7 @@ Simply download and install the latest APK release (v1.1.0) from the releases an
 
 -- Developed in native Java.
 
--- Supported on all Android devices.
+-- Supported untill Android 8.0.
 
 -- Implements code integrity checks.
 
